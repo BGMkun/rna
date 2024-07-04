@@ -1,7 +1,7 @@
 #!name = Bilibili去广告
 #!desc = 过滤Bilibili广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。
 #!openUrl = 
-#!author = Maasea RuCu6 可莉🅥
+#!author = Maasea RuCu6
 #!homepage = https://gitlab.com/lodepuly/vpn_tool/-/tree/master/Tool/Loon/Plugin
 #!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Bilibili.png
 #!date = 2024-01-16 19:48:54
